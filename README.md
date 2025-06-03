@@ -14,6 +14,7 @@ A simple terminal-based calculator built with Python that supports basic arithme
 1. Clone or download this repository.
 2. Run the `calculator.py` script using Python 3:
    ```bash
+
   
   def add(a, b):
     return a + b
